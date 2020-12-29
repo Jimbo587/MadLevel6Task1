@@ -1,4 +1,4 @@
-package com.example.madlevel6task1
+package com.example.madlevel6task1.ui
 
 import android.content.Context
 import android.view.LayoutInflater
@@ -7,7 +7,7 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.example.madlevel6task1.databinding.ItemColorBinding
-import com.example.madlevel6task1.ColorItem
+import com.example.madlevel6task1.model.ColorItem
 import com.example.madlevel6task1.R
 
 

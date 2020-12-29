@@ -1,4 +1,4 @@
-package com.example.madlevel6task1
+package com.example.madlevel6task1.ui
 
 import android.os.Bundle
 import com.google.android.material.floatingactionbutton.FloatingActionButton

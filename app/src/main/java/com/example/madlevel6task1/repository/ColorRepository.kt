@@ -1,4 +1,6 @@
-package com.example.madlevel6task1
+package com.example.madlevel6task1.repository
+
+import com.example.madlevel6task1.model.ColorItem
 
 class ColorRepository {
     fun getColorItems(): List<ColorItem> {

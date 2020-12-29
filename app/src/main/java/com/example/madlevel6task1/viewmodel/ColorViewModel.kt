@@ -1,8 +1,10 @@
-package com.example.madlevel6task1
+package com.example.madlevel6task1.viewmodel
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
+import com.example.madlevel6task1.model.ColorItem
+import com.example.madlevel6task1.repository.ColorRepository
 
 class ColorViewModel : ViewModel(){
     private val colorRepository = ColorRepository()
